@@ -3,7 +3,6 @@ import firebase from 'firebase/compat/app'
 import 'firebase/compat/firestore'
 import '../components/fire'
 
-
 const db = firebase.firestore()
 
 export default function Home() {
