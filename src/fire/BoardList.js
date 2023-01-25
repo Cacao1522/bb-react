@@ -63,7 +63,6 @@ export default function Home() {
             <h3>{message}</h3>
            
             <table>
-              
               <tbody>
                 {data}
               </tbody>
